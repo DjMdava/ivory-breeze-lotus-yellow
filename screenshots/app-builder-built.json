@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumina",
+      "hasCanvas": false,
+      "bodyTextLen": 435,
+      "bodyTextHash": "198838790d725436cbe16c7c1ca7138eb66977b9526b6e6377e0baaa4cbc4d9d",
+      "bodyTextPrefix": "Skip to library Lumina STUDIO Idle FRAME Still Prompt Upload Pro",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumina",
+      "hasCanvas": false,
+      "bodyTextLen": 299,
+      "bodyTextHash": "0ab9964be01e3284a17d9d9a7d2a5fe7e8a7b37f854f4b72db4f2f64ae5d1be4",
+      "bodyTextPrefix": "Skip to library Lumina Idle FRAME Still Prompt Upload Prompt 0 /",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
